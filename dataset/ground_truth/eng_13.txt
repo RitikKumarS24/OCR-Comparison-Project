@@ -1,0 +1,2 @@
+Vision Transformers divide input document images into fixed-size patches
+and capture long-range spatial dependencies across complex page layouts.

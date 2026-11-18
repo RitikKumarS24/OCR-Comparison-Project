@@ -1,0 +1,1 @@
+python main.py --engine paddleocr --lang en --input dataset/original/eng_01.png

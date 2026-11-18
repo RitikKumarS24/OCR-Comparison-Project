@@ -1,0 +1,21 @@
+sample_id,image_file,ground_truth_file,language,category,char_count,word_count,width_px,height_px
+eng_01,eng_01.png,eng_01.txt,English,Academic Paragraph,86,10,1303,131
+eng_02,eng_02.png,eng_02.txt,English,Academic Paragraph,85,10,1453,132
+eng_03,eng_03.png,eng_03.txt,English,Invoice & Finance,75,11,1470,132
+eng_04,eng_04.png,eng_04.txt,English,Invoice & Finance,77,16,1506,132
+eng_05,eng_05.png,eng_05.txt,English,Technical & Code,75,9,1470,129
+eng_06,eng_06.png,eng_06.txt,English,Technical & Code,79,8,1542,129
+eng_07,eng_07.png,eng_07.txt,English,Signage & Wayfinding,65,11,1695,136
+eng_08,eng_08.png,eng_08.txt,English,Signage & Wayfinding,70,9,1852,131
+eng_09,eng_09.png,eng_09.txt,English,Medical & Prescription,80,15,1322,132
+eng_10,eng_10.png,eng_10.txt,English,Legal & Administrative,73,9,1180,131
+eng_11,eng_11.png,eng_11.txt,English,Mixed Alphanumeric,71,15,1233,132
+eng_12,eng_12.png,eng_12.txt,English,Multi-Line Paragraph,149,16,1350,182
+eng_13,eng_13.png,eng_13.txt,English,Multi-Line Paragraph,145,18,1129,180
+eng_14,eng_14.png,eng_14.txt,English,Punctuation & Symbols,76,8,1488,132
+hin_01,hin_01.png,hin_01.txt,Hindi,Academic Sentence,79,12,1380,146
+hin_02,hin_02.png,hin_02.txt,Hindi,University Notice,82,12,1394,146
+hin_03,hin_03.png,hin_03.txt,Hindi,Public Signage,63,10,1008,146
+hin_04,hin_04.png,hin_04.txt,Hindi,Administrative Text,85,13,1505,146
+hin_05,hin_05.png,hin_05.txt,Hindi,Multi-Line Hindi,104,18,917,210
+hin_06,hin_06.png,hin_06.txt,Hindi,Hindi with Numerals,75,13,1210,147

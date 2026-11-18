@@ -1,0 +1,1 @@
+CER = (Substitutions + Deletions + Insertions) / Total_Reference_Characters

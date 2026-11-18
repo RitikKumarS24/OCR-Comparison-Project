@@ -1,0 +1,2 @@
+Image preprocessing techniques such as Gaussian filtering and Otsu thresholding
+improve foreground-background contrast before character segmentation.
